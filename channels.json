@@ -6,14 +6,14 @@
       "id": "quran",
       "name": "Quran",
       "group": "Islamic",
-      "logo": "https://cdn.jsdelivr.net/gh/YOURUSER/live-tv-data@main/logos/quran.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sabis/live-tv-data@master/logos/quran.png",
       "stream": "https://REPLACE-WITH-REAL-M3U8/index.m3u8"
     },
     {
       "id": "sunna",
       "name": "Sunna",
       "group": "Islamic",
-      "logo": "https://cdn.jsdelivr.net/gh/YOURUSER/live-tv-data@main/logos/sunna.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sabis/live-tv-data@master/logos/sunna.png",
       "stream": "https://REPLACE-WITH-REAL-M3U8/index.m3u8"
     }
   ]
