@@ -6,6 +6,7 @@
       "id": "aljazeera",
       "name": "Quran",
       "group": "Islamic",
+      "logo": "http://raw.githubusercontent.com/sabis/Files/logo/aljazeera.jpg",      
       "logo": "http://cdn.jsdelivr.net/gh/sabis/Files/Livetv@master/logo/aljazeera.jpg",
       "stream": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
     },
